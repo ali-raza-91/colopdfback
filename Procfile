@@ -1,1 +1,1 @@
-web: gunicorn first.wsgi
+web: gunicorn first.first.wsgi
